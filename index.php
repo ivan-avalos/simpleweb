@@ -26,6 +26,8 @@
   beauty. That's the point of this website: it doesn't need a design to look
   beautiful.</p>
   <p>The point of this website is <h1>*usability*</h1>.</p>
+  <p>You can find the source code of this website
+  in <a href="https://github.com/ivan-avalos/simpleweb">Github</a>.</p>
   <hr>
   <h2>Useless currency converter</h2>
   <form method="get" action="https://www.xe.com/currencyconverter/convert">
@@ -88,12 +90,27 @@
   <a href="https://github.com">Github</a><br>
   <a href="index.php">Here</a><br>
   <a href="https://stackoverflow.com">StackOverFlow</a><br>
-  <hr><hr>
+  <hr>
   <h2>Useless sotfware:</h2>
   <ul>
     <li><a href="https://opensuse.org">OpenSUSE</a></li>
     <li><a href="https://httpd.apache.org">Apache HTTP Server</a></li>
     <li><a href="https://emacs.org">GNU Emacs</a></li>
   </ul>
+  <hr><hr>
+  <p>Copyright (C) 2018  Iván Alejandro Ávalos Díaz &lt;ivan.avalos.diaz@hotmail.com&gt;</p>
+
+  <p>This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.</p>
+
+  <p>This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.</p>
+
+  <p>You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see &lt;<a href="https://www.gnu.org/licenses/">https://www.gnu.org/licenses/</a>&gt;.</p>
 </body>
 </html>
