@@ -23,7 +23,7 @@
   <h2>Why this website has no stylesheet?</h2>
   <p>This website has no design, but if you look closer, you'll find this
   website beautiful and then, you will be able to appreciate the real
-  art. That's the point of this website: it doesn't need a design to look
+  beauty. That's the point of this website: it doesn't need a design to look
   beautiful.</p>
   <p>The point of this website is <h1>*usability*</h1>.</p>
   <hr>
